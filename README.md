@@ -1,0 +1,14 @@
+# qssi-user 10 QKQ1.200830.002 V12.0.5.0.QJFEUXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: citrus
+- flavor: qssi-user
+- release: 10
+- id: QKQ1.200830.002
+- incremental: V12.0.5.0.QJFEUXM
+- tags: release-keys
+- fingerprint: POCO/citrus_eea/citrus:10/QKQ1.200830.002/V12.0.5.0.QJFEUXM:user/release-keys
+- is_ab: false
+- brand: POCO
+- branch: qssi-user-10-QKQ1.200830.002-V12.0.5.0.QJFEUXM-release-keys
+- repo: poco_citrus_dump
